@@ -1,0 +1,8 @@
+torch~=2.5.1
+huggingface-hub~=0.30.2
+dotenv~=0.9.9
+python-dotenv~=1.1.0
+transformers~=4.51.3
+accelerate
+bitsandbytes
+datasets

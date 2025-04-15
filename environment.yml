@@ -1,0 +1,15 @@
+name: cs7643-final-project
+channels:
+  - defaults
+dependencies:
+  - python==3.11
+  - matplotlib
+  - jupyter
+  - pip
+  - pip:
+    - torch
+    - tqdm
+    - pyyaml
+    - notebook
+    - numpy
+
