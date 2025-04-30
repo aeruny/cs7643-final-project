@@ -12,4 +12,8 @@ dependencies:
     - pyyaml
     - notebook
     - numpy
+    - transformer
+    - datasets
+    - captum
+    - transformers-interpret
 
