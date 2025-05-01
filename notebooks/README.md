@@ -1,1 +1,1 @@
-**Please try to upload the notebooks on Google Colab if you can't view them on preview**
+**Please try to upload the notebooks on Google Colab to open them if you can't view them on preview**
